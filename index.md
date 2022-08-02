@@ -1,7 +1,7 @@
 
-| ARCTIC MAPS        | good swedish fish | 
-| [WARMING STRIPES](stripes.html)    |  | 
-| CLIMATE INDICATORS | good `oreos`      | 
-| CARBON BUDGET      | good `zoute` drop | 
-| SPIRALS            | good `oreos`      | 
-| WARMING MAPS       | good `zoute` drop | 
+| [WARMING STRIPES](stripes.html) |  | 
+| [CLIMATE INDICATORS](indicators.html) |  | 
+| [CARBON BUDGET](cbudget.html) |  | 
+| [SPIRALS](spirals.html) |  | 
+| [WARMING MAPS](maps.html) |  | 
+| [ARCTIC MAPS](arctic.html) |  | 
