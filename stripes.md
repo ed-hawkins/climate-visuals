@@ -1,1 +1,3 @@
-This will contain stripe examples
+
+[![Global Stripes](STRIPES/GLOBAL-STRIPES-1850-2021-hires.png)](STRIPES/GLOBAL-STRIPES-1850-2021-hires.png)
+
