@@ -6,3 +6,6 @@
 
 ### Warming more or less than global average
 [![Global Map more or less](WARMING-MAPS/warming-more-less.png)](WARMING-MAPS/warming-more-less.png)
+
+### Small multiples of temperature change
+[![Small multiples](SMALL-MULTIPLES/SMALL-MULTIPLES-TEMPERATURE.png)](SMALL-MULTIPLES/SMALL-MULTIPLES-TEMPERATURE.png)
