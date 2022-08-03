@@ -1,7 +1,3 @@
+These graphics show different aspects of how the climate is changing and are all free to use with a CC-BY license. 
 
-| [WARMING STRIPES](stripes.html) |  | 
-| [CLIMATE INDICATORS](indicators.html) |  | 
-| [CARBON BUDGET](cbudget.html) |  | 
-| [SPIRALS](spirals.html) |  | 
-| [WARMING MAPS](maps.html) |  | 
-| [ARCTIC MAPS](arctic.html) |  | 
+They will be updated as new data becomes available.
