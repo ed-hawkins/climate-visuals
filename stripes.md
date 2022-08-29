@@ -1,6 +1,8 @@
 ### Global warming stripes for the instrumental period
 [![Global Stripes](STRIPES/GLOBAL-STRIPES-1850-2021-hires.png)](STRIPES/GLOBAL-STRIPES-1850-2021-hires.png)
 
+(*go to [ShowYourStripes.info](https://www.ShowYourStripes.info) to download similar graphics for every country, and individual regions and cities*)
+
 ### Global warming stripes for the last 2000 years
 [![Paleo Global Stripes](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)
 
