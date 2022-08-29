@@ -4,6 +4,7 @@
 ### Global warming stripes for the last 2000 years
 [![Paleo Global Stripes](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)
 
-### Global warming stripes for the past and future
-[![Global Stripes for future](STRIPES/GLOBAL-STRIPES-CHOOSE-YOUR-FUTURE.png)](STRIPES/GLOBAL-STRIPES-CHOOSE-YOUR-FUTURE.png)
-[![Global Stripes for future](STRIPES/GLOBAL-STRIPES-INCLUDING-TWO-FUTURES-COP26.png)](STRIPES/GLOBAL-STRIPES-INCLUDING-TWO-FUTURES-COP26.png)
+[![Paleo Global Stripes as bar chart (white)](PALEO-STRIPES/PAGES2k-BARS-1-2021-white.png)](PALEO-STRIPES/PAGES2k-BARS-1-2021-white.png)
+
+[![Paleo Global Stripes as bar chart (black)](PALEO-STRIPES/PAGES2k-BARS-1-2021-black.png)](PALEO-STRIPES/PAGES2k-BARS-1-2021-black.png)
+

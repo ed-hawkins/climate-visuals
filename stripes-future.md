@@ -1,0 +1,3 @@
+### Global warming stripes for the past and future
+[![Global Stripes for future](STRIPES/GLOBAL-STRIPES-CHOOSE-YOUR-FUTURE.png)](STRIPES/GLOBAL-STRIPES-CHOOSE-YOUR-FUTURE.png)
+[![Global Stripes for future](STRIPES/GLOBAL-STRIPES-INCLUDING-TWO-FUTURES-COP26.png)](STRIPES/GLOBAL-STRIPES-INCLUDING-TWO-FUTURES-COP26.png)
