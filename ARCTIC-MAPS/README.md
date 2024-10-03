@@ -1,2 +1,2 @@
 # climate-visuals-arctic-maps
-Latest versions of animated changes in sea ice concentration
+Latest versions of maps showing changes in sea ice cover
