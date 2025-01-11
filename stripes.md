@@ -1,5 +1,5 @@
 ### Global warming stripes for the instrumental period
-[![Global Stripes](STRIPES/GLOBAL-STRIPES-1850-2023-hires.png)](STRIPES/GLOBAL-STRIPES-1850-2023-hires.png)
+[![Global Stripes](STRIPES/GLOBAL-STRIPES-1850-2024-hires.png)](STRIPES/GLOBAL-STRIPES-1850-2024-hires.png)
 
 (*go to [ShowYourStripes.info](https://www.ShowYourStripes.info) to download similar graphics for every country, and individual regions and cities*)
 
