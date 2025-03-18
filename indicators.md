@@ -7,3 +7,6 @@
 ### Causal chain climate indicators (UK)
 [![UK indicators](CLIMATE-INDICATORS/climate-indicators-uk.png)](CLIMATE-INDICATORS/climate-indicators-uk.png)
 
+### Cherry blossom in Japan
+[![Cherry blossom in Japan](CLIMATE-INDICATORS/kyoto_blossom_bars_1600.png)](CLIMATE-INDICATORS/kyoto_blossom_bars_1600.png)
+
