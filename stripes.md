@@ -3,12 +3,5 @@
 
 (*go to [ShowYourStripes.info](https://www.ShowYourStripes.info) to download similar graphics for every country, and individual regions and cities*)
 
-### Global warming stripes for the last 2000 years
-[![Paleo Global Stripes](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)
-
-[![Paleo Global Stripes as bar chart (white)](PALEO-STRIPES/PAGES2k-BARS-1-2024-white.png)](PALEO-STRIPES/PAGES2k-BARS-1-2024-white.png)
-
-[![Paleo Global Stripes as bar chart (white)](PALEO-STRIPES/PAGES2k-BARS-1-2024-white-withCO2.png)](PALEO-STRIPES/PAGES2k-BARS-1-2024-white-withCO2.png)
-
-[![Paleo Global Stripes as bar chart (black)](PALEO-STRIPES/PAGES2k-BARS-1-2024-black.png)](PALEO-STRIPES/PAGES2k-BARS-1-2024-black.png)
-
+### Global warming stripes for the atmosphere and ocean
+[![Global Earth System Stripes](STRIPES/warming_stripes_atmos_ocean_1960_2024.png)](STRIPES/warming_stripes_atmos_ocean_1960_2024.png)
