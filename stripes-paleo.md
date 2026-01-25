@@ -1,5 +1,5 @@
 ### Global warming stripes for the last 2000 years
-[![Paleo Global Stripes](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)](PALEO-STRIPES/PAGES2k-STRIPES-hires.png)
+[![Paleo Global Stripes](PALEO-STRIPES/PAGES2k-STRIPES-hires-2025.png)](PALEO-STRIPES/PAGES2k-STRIPES-hires-2025.png)
 
 [![Paleo Global Stripes as bar chart (white)](PALEO-STRIPES/PAGES2k-BARS-1-2025-white.png)](PALEO-STRIPES/PAGES2k-BARS-1-2025-white.png)
 
