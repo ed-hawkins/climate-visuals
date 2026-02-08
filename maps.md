@@ -1,3 +1,5 @@
+## Maps of warming
+
 ### Temperature change since pre-industrial
 [![Global Map](WARMING-MAPS/total-observed-warming-2025.png)](WARMING-MAPS/total-observed-warming-2025.png)
 

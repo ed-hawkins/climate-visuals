@@ -1,3 +1,5 @@
+## Climate spirals
+
 ### Animated spiral of changes in global temperature
 [![Global Temperature Spiral](SPIRALS/global_temperature_spiral_latest_large.gif)](SPIRALS/global_temperature_spiral_latest_large.gif)
 
