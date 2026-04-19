@@ -9,7 +9,7 @@
 ### Global temperature, carbon dioxide and rate of sea level rise
 [![Simple indicators](CLIMATE-INDICATORS/climate-indicators-simple-with-sea-level-rate_2025.png)](CLIMATE-INDICATORS/climate-indicators-simple-with-sea-level-rate_2025.png)
 
-### Full set of climate indicators including last 2000 years where available
+### Full set of climate indicators including last 2000 years
 [![Full indicators](CLIMATE-INDICATORS/climate-indicators-multiple_2025.png)](CLIMATE-INDICATORS/climate-indicators-multiple_2025.png)
 
 ### Causal chain highlighting how the UK is affected by global emissions
