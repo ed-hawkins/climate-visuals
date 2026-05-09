@@ -1,6 +1,6 @@
 ## Climate spirals
 
-### Animated spiral of changes in global temperature (or [![MP4](SPIRALS/global_temperature_spiral_latest_large.mp4)])
+### Animated spiral of changes in global temperature (or [MP4](SPIRALS/global_temperature_spiral_latest_large.mp4))
 [![Global Temperature Spiral](SPIRALS/global_temperature_spiral_latest_large.gif)](SPIRALS/global_temperature_spiral_latest_large.gif)
 
 ### Animated spiral of changes in Arctic sea ice volume
