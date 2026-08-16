@@ -14,3 +14,6 @@
 
 ### Year of emergence for annual temperature change
 [![Global Map emergence](WARMING-MAPS/year-of-emergence_2025.png)](WARMING-MAPS/year-of-emergence_2025.png)
+
+### Global warming level of emergence for annual temperature change
+[![Global Map emergence by GWL](WARMING-MAPS/emergence-gwl-2025.png)](WARMING-MAPS/emergence-gwl-2025.png)
