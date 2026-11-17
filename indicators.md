@@ -12,9 +12,6 @@
 ### Full set of climate indicators including last 2000 years
 [![Full indicators](CLIMATE-INDICATORS/climate-indicators-multiple_2025.png)](CLIMATE-INDICATORS/climate-indicators-multiple_2025.png)
 
-### Causal chain highlighting how the UK is affected by global emissions
-[![UK indicators](CLIMATE-INDICATORS/climate-indicators-uk.png)](CLIMATE-INDICATORS/climate-indicators-uk.png)
-
 ### Cherry blossom dates in Japan over the last 400+ years
 [![Cherry blossom in Japan](CLIMATE-INDICATORS/kyoto_blossom_bars_1600.png)](CLIMATE-INDICATORS/kyoto_blossom_bars_1600.png)
 
